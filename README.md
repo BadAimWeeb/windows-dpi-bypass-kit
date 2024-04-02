@@ -8,6 +8,10 @@ Windows DPI Bypass Kit là một bộ kit giúp bạn nhanh chóng vượt qua t
 
 **BỘ KIT NÀY KHÔNG PHẢI LÀ VPN VÀ SẼ KHÔNG LÀM ẢNH HƯỞNG QUÁ NHIỀU ĐẾN PING VÀ BĂNG THÔNG MẠNG.**
 
+**KIT DÙNG ĐƯỢC CHO CẢ GIẢ LẬP ANDROID.**
+
+> Chú ý: Kit chỉ hỗ trợ Windows 10 trở lên chạy 64bit.
+
 ## Yêu cầu
 
 Java 8 trở lên, có thể tải tại [đây](https://www.java.com/en/download/).
